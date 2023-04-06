@@ -6,7 +6,7 @@
 /*   By: ohamadou <ohamadou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/26 16:23:46 by ohamadou          #+#    #+#             */
-/*   Updated: 2023/03/30 08:33:38 by ohamadou         ###   ########.fr       */
+/*   Updated: 2023/03/31 01:04:15 by ohamadou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@
 # include <unistd.h>
 # include <stdlib.h>
 # include <stdlib.h>
-#include <fcntl.h>
+// #include <fcntl.h>
 
 # ifndef BUFFER_SIZE
 #  define BUFFER_SIZE 1000
